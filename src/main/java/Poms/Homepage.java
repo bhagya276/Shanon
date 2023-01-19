@@ -14,4 +14,5 @@ public class Homepage {
 		String actText=text.getText();
 		return actText;
 	}
+	system.out.println("Hello");
 }
